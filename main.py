@@ -33,4 +33,5 @@ def square(x, y, side, angle, color):
     turtle.left(angle)
     turtle.end_fill()
     turtle.done()
-
+def loh(a):
+    return
